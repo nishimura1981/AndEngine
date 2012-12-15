@@ -16,6 +16,7 @@ import android.os.Build;
  *
  * @author Nicolas Gramlich <ngramlich@zynga.com>
  * @since 14:03:59 - 19.03.2012
+ * @oden hanpen
  */
 public class AndEngine {
 	// ===========================================================
